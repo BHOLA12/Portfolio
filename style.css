@@ -711,6 +711,7 @@ img { display: block; max-width: 100%; }
 
 .sk-cpp    { color: #004488; background: rgba(0,68,136,0.15); }
 .sk-python { color: #3572a5; background: rgba(53,114,165,0.15); }
+.sk-numpy  { color: #4d77cf; background: rgba(77,119,207,0.15); }
 .sk-ts     { color: #3178c6; background: rgba(49,120,198,0.15); }
 .sk-sql    { color: #e38c00; background: rgba(227,140,0,0.15); }
 .sk-next   { color: #fff; background: rgba(255,255,255,0.08); }
